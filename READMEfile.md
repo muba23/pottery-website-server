@@ -2,7 +2,7 @@
 niche-website-server-side-muba23 created by GitHub Classroom
 # Welcome to Pottery Service
 
-This  is client side.
+This  is server side.
 Live site link:  [Creative Clay](https://trusting-edison-43e3d7.netlify.app/).
 
 
